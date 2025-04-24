@@ -1,54 +1,38 @@
-<header>
+# Charcol Brokers LLC - Corporate Website
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+This is the official corporate website for **Charcol Brokers LLC**, a U.S.-based company focused on financial products, sales, and marketing services for IT companies.
 
-# GitHub Pages
+## 🌐 Live Demo
+This website is designed to be hosted on **GitHub Pages**.
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+## 📁 Project Structure
+```
+├── index.html         # Main website content
+├── style.css          # CSS styles for layout and design
+├── Logo...png         # Company logo
+└── README.md          # Project documentation
+```
 
-</header>
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
+- [Formspree](https://formspree.io/) for contact form handling
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## 📝 How to Use
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/charcol-website.git
+   ```
+2. Navigate into the folder:
+   ```bash
+   cd charcol-website
+   ```
+3. Open `index.html` in a browser to preview the site locally.
+4. Replace the `formspree.io` form endpoint with your own.
+5. Push to GitHub and enable GitHub Pages via repository settings.
 
-## Step 1: Enable GitHub Pages
+## 📬 Contact
+Email us at: [info@charcolbrokers.com](mailto:info@charcolbrokers.com)
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+## © License
+© 2025 Charcol Brokers LLC. All rights reserved.
